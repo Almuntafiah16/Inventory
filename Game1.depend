@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1570445461 source:e:\al chan\game1\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<cstdlib>
+	<ctime>
+
+1571048000 source:g:\game programming\al chan\game1\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<cstdlib>
+	<ctime>
+
